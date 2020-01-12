@@ -336,5 +336,9 @@ ASALocalRun/
 # Local History for Visual Studio
 .localhistory/
 
+*.dll
+./Lee_Algorithm_CUDA_fast_distribute/opencv_world412d.dll
+
 # BeatPulse healthcheck temp database
 healthchecksdb
+
