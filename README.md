@@ -7,7 +7,8 @@ C++ based maze solver using Lee Algorithm, accelerated with Nvidia CUDA
 : https://developer.nvidia.com/cuda-downloads
 - openCV 4.1.2-vc14_cv15
 : https://opencv.org/opencv-4-1-2/
-- you need to copy 'opencv_world412d.dll' to your project directory(./Lee_Algorithm_CUDA_fast_distribute/opencv_world412d.dll).
+- you need to copy 'opencv_world412d.dll' to your project directory  
+(./Lee_Algorithm_CUDA_fast_distribute/opencv_world412d.dll).
 <br><br>
 
 ## Input Maze image
